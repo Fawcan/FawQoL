@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: FawQoL
+## Notes: Small quality-of-life tweaks. /faw for options.
+## Author: Fawcan
+## Version: 1.3.0
+## IconTexture: Interface\Icons\INV_Misc_Gear_01
+## SavedVariables: FawQoLDB
+
+Core.lua
+Modules\ExtendedVendor.lua
+Modules\GatherRange.lua
+Options.lua
